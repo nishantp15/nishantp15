@@ -3,7 +3,7 @@
 
 - 🌱 I’m currently learning **Full Stack Web Development from Masai School**
 
-- 👨‍💻 All of my projects are available at [https://nishantportfolio1.netlify.app/](https://nishantportfolio1.netlify.app/)
+- 👨‍💻 All of my projects are available at [https://nishantp.in](https://nishantp.in)
 
 - 💬 Ask me about **Java, JavaScript, React.js, Node.js, HTML, CSS**
 
