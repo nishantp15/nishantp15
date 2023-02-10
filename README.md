@@ -9,7 +9,7 @@
 
 - 📫 How to reach me **prajapati.nishant@outlook.com**
 
-- 📄 Know about my experiences [https://drive.google.com/file/d/1-fjpRyS4PIBuzCt3eLfbyrTEy3ltHgKt/view](https://drive.google.com/file/d/1-fjpRyS4PIBuzCt3eLfbyrTEy3ltHgKt/view)
+- 📄 Know about my experiences [https://nishantp.in](https://nishantp.in)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
