@@ -8,12 +8,12 @@
 - 💬 Ask me about **Java, JavaScript, React.js, Node.js, HTML, CSS**
 
 - 📫 How to reach me **prajapati.nishant@outlook.com**
-- 
+
 - 📄 My Portfolio [https://nishantp15.github.io](https://nishantp15.github.io)
-- 
+
 - 📄 Know about my experiences [https://nishantp.in](https://nishantp.in)
 
-<a href="https://nishantp15.github.io" target="blank"></a>
+<a href="https://nishantp15.github.io" target="blank">Portfolio</a>
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
